@@ -2,4 +2,5 @@
 If you want to figure out what genre of music, people in different age groups listen to, Music Pal is your "Pal"😉
 
 #The Research!
-![](https://uofwaterloo-my.sharepoint.com/:u:/r/personal/ajavadim_uwaterloo_ca/Documents/file.url?csf=1&web=1&e=hRwB0v)
+![](![Screenshot (11)](https://user-images.githubusercontent.com/63557848/128607946-5a0a0471-ce59-4f57-89d6-f0b15b012aa6.png)
+

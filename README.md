@@ -18,7 +18,7 @@ A more specific study looks at the abundance of various genres of music in diffe
 The csv file above is the database I used for the programm. As you can see this data set is incomplete, and it is upto the machine to predict the music taste of the person that is not collected! I have also embeded an score-accuracy file in the project which averaged a score of 90% on guessing the music taste of the user! 
 
 
-#The algorithm!(The How!)
+#The algorithm(The How!)
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/63557848/128607946-5a0a0471-ce59-4f57-89d6-f0b15b012aa6.png)
 

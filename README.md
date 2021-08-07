@@ -5,7 +5,5 @@ If you want to figure out what genre of music, people in different age groups li
 
 ![alt text]https://imgur.com/aobXG1G
 
-Reference-style: 
-![alt text][logo]
+[image] https://uofwaterloo-my.sharepoint.com/:i:/r/personal/ajavadim_uwaterloo_ca/Documents/739-17.gif?csf=1&web=1&e=ljlv4L
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"

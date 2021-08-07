@@ -2,6 +2,7 @@
 If you want to figure out what genre of music, people in different age groups listen to, Music Pal is your "Pal"😉
 
 #The Research!
+
 ![statistic_id253915_favorite-music-genres-in-the-us-2018-by-age](https://user-images.githubusercontent.com/63557848/128608052-11c275d7-cf6c-4d13-a69b-f2edbb0b1ae9.png)
 
 Studies show that as people get older their overal taste in music changes, while still keeping a sense of the old songs they listen to. This is why, you can go back and listen to the tunes you listened to years ago and still enjoy them!

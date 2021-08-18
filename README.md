@@ -11,7 +11,7 @@ Studies show that as people get older their overal taste in music changes, while
 
 A more specific study looks at the abundance of various genres of music in different age groups. While we can never strictly say that 16-20 years old begin their music journey with pop or Hip-Hop, there is an overwhelming number of teenagers who take this path. The reason is directly tied to the popularity of these types of music in the outside world so chances are if you attend an event of any kind, the music that's getting played is some type of Pop to attract the most amount of people they can.
 
-#Data collected!
+# Data collected!
 
 ![Capture](https://user-images.githubusercontent.com/63557848/128608436-a5495c92-a039-45fb-bc1d-c29695da668e.JPG)
 

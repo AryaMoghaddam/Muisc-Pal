@@ -22,7 +22,7 @@ The csv file above is the database I used for the program. As you can see this d
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/63557848/128607946-5a0a0471-ce59-4f57-89d6-f0b15b012aa6.png)
 
-Jupyter notebook allowed me create a vs.code file which then translates to the process you see above!The programm brakes down the indexes entered by the user and creates a binary tree, in which each node has only two childs, and continues this process until it reaches an endpoint. After the program enters the propmt it starts searching in this binary tree 
+I created a vs.code file with Jupyter notebook which then translated the process you see above!The programm brakes down the indexes entered by the user and creates a binary tree, in which each node has only two childs, and continues this process until it reaches an endpoint. After the user enters the propmt it starts searching in this binary tree 
 and guesses the genre of music in  a matter of seconds!
 
 

@@ -15,7 +15,7 @@ A more specific study looks at the abundance of various genres of music in diffe
 
 ![Capture](https://user-images.githubusercontent.com/63557848/128608436-a5495c92-a039-45fb-bc1d-c29695da668e.JPG)
 
-The csv file above is the database I used for the program. As you can see this data set is incomplete, and it is upto the machine to predict the music taste of the age groups that are not studied! I have also embeded an score-accuracy file in the project which averaged a score of 90% on guessing the music taste of the user! 
+The csv file above is the database I used for the program. As you can see this data set is incomplete, and it is upto the machine to predict the music taste of the age groups that are not studied! I have also embeded an score-accuracy file in the project which averaged a score of 80% on guessing the music taste of the user! 
 
 
 #The algorithm(The How!)
